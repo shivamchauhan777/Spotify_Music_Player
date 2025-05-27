@@ -2,10 +2,6 @@
 
 A responsive and interactive Spotify-like music player built using **HTML**, **CSS**, **JavaScript**, and **TailwindCSS**. This project mimics the core design and functionality of the Spotify web player, allowing users to play music with basic controls and enjoy a sleek modern UI.
 
-## 🎶 Preview
-
-![Spotify Music Player Preview](https://spotifymusicplayer707.netlify.app) <!-- Replace with your actual image URL -->
-
 ## 🚀 Features
 
 - ✅ Modern and responsive Spotify-inspired UI
