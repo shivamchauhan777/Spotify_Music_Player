@@ -1,0 +1,6 @@
+.truncate {
+  width: 200px;               /* Or any fixed width */
+  white-space: nowrap;        /* Prevents text from wrapping */
+  overflow: hidden;           /* Hides overflowed content */
+  text-overflow: ellipsis;    /* Shows "..." for overflowed text */
+}
